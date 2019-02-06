@@ -40,5 +40,5 @@ return [
     |
     */
 
-    'path' => env('WINK_PATH', '/'),
+    'path' => env('WINK_PATH', 'wink'),
 ];
